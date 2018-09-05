@@ -1,0 +1,21 @@
+{
+  "personalDetails": {
+      "forename":{
+          "displayName":"First Name",
+          "fieldType":"textbox",
+          "required":true,
+          "minLength":10,
+          "maxLength":200,
+          "placeholder":"first name"
+      },
+    "otherName":{
+          "displayName":"Other Name",
+          "fieldType":"textbox",
+          "required":false,
+          "minLength":10,
+          "maxLength":200,
+          "placeholder":"other name"
+      }
+
+  }
+}
